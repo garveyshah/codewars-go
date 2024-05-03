@@ -46,10 +46,11 @@ To contribute, follow these steps:
       ```
   4.  Push to your fork:
      ```
-     bash
-     git push origin feature/new-solution
-     ```
-  5. Submit a pull request.
+      bash
+      git push origin feature/new-solution
+      ```     
+
+  6. Submit a pull request.
      
 ## License
 
