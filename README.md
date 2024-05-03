@@ -45,13 +45,14 @@ To contribute, follow these steps:
      git commit -m "Add new solution to kata"
       ```
   4.  Push to your fork:
+
      ```
      bash
      git push origin feature/new-solution
      ```
 ## License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the >MIT License<.
 
 
 
