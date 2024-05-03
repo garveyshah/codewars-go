@@ -16,13 +16,15 @@ To use the solutions provided in this repository, follow these steps:
 
 1. Clone the repository to your local machine:
 
-``bash
+```
+bash
 git clone https://github.com/garveyshah/codewars-go.git
-
+```
 2. Navigate to the directory containing the Go files:
+```
 bash
 cd codewars-go
-
+```
 3. Browse the `kata` directory to find solutions to specific coding challenges.
 
 ## Contributing
@@ -33,14 +35,20 @@ To contribute, follow these steps:
 
    1. Fork the repository.
    2. Create a new branch for your changes:
+       ```
       bash
       git checkout -b feature/new-solution
+      ```
   3. Make your changes and commit them:
-     bash
+      ```
+      bash
      git commit -m "Add new solution to kata"
+      ```
   4.  Push to your fork:
+     ```
      bash
      git push origin feature/new-solution
+     ```
 ## License
 
 This repository is licensed under the @ MIT License.
