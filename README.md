@@ -28,7 +28,7 @@ cd codewars-go
 3. Browse the `kata` directory to find solutions to specific coding challenges.
 > [NOTE]
 
-> IN each **instruction.txt** file is the link to the specific kata test on the CodeWars website.
+> In each **instruction.txt** file is the link to the specific kata test on the CodeWars website.
 
 ## Contributing
 
