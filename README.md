@@ -45,7 +45,6 @@ To contribute, follow these steps:
      git commit -m "Add new solution to kata"
       ```
   4.  Push to your fork:
-     
      ```
      bash
      git push origin feature/new-solution
