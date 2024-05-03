@@ -1,4 +1,4 @@
-# **codeWars Solutions in Go**
+# **CodeWars Solutions in Go**
 
 This repository contains my solutions to various coding challenges from [CodeWars](https://www.codewars.com) implemented in the Go programming language.
 
@@ -45,14 +45,16 @@ To contribute, follow these steps:
      git commit -m "Add new solution to kata"
       ```
   4.  Push to your fork:
-
      ```
      bash
      git push origin feature/new-solution
      ```
+  5. Submit a pull request.
+     
 ## License
 
-This repository is licensed under the >MIT License<.
+This repository is licensed under the **[MIT License](LICENSE)**.
+
 
 
 
