@@ -26,6 +26,8 @@ bash
 cd codewars-go
 ```
 3. Browse the `kata` directory to find solutions to specific coding challenges.
+> [NOTE]
+> Each instruction file has the link to the specific kata test on the CodeWars website.
 
 ## Contributing
 
