@@ -51,7 +51,7 @@ To contribute, follow these steps:
      ```
 ## License
 
-This repository is licensed under the @ MIT License.
+This repository is licensed under the MIT License.
 
 
 
