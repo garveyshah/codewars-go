@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	str := "masterplan"
+	str := "godwin"
 	key := 1939
 	fmt.Println(Encode(str, key))
 }
