@@ -3,7 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(Thirt(n))
+	fmt.Println(Thirt())
 }
 
-func Thirt(n)
+func Thirt() {
+
+}
